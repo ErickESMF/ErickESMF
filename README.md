@@ -1,4 +1,4 @@
-### Olá, seja muito bem-vindo ao meu GitHub! 👋
+### Olá, bem-vindo ao meu GitHub! 👋
 
 <div align="center">
   <a href="https://github.com/ErickESMF">
